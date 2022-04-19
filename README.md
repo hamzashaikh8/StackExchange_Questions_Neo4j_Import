@@ -12,5 +12,3 @@ steps:
    - **the script assume that you want to remove you old database** (at the end)
 
 Look at the scripts before using them to understand what they do :)
-
-*Have fun!*
