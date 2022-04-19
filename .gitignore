@@ -1,0 +1,4 @@
+extracted/*/
+*.pyc
+csvs/
+stackexchange/
