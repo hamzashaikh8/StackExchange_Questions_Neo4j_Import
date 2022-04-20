@@ -7,10 +7,15 @@ steps:
    - you can `dtrx` on linux
 - you need to `sudo pip3 install xmltodict`
 - `python3 to_csv.py extracted/<name of the community>` to get the csvs in `csvs/`
-- `sh import.sh` to import the csvs in neo4j
+- After creating a new project in NEO4J, open a terminal command and head to the bin directory. 
+- `sh importscript.sh` to import the csvs in neo4j
    - assuming that neo4j is in the `../neo/` directory
    - **the script assume that you want to remove you old database** (at the end)
 
+<<<<<<< HEAD
 Look at the scripts before using them to understand what they do :)
 
 *Have fun!*
+=======
+Look at the scripts before using them to understand what they do
+>>>>>>> 2c4bbc8ef8b1a13cb06f4c4fd8c2c96657a7d016
